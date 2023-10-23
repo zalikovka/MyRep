@@ -1,2 +1,3 @@
 2d hometask Hillel
-Let`s do the hometask ... 
+Let's do the hometask perfectly.
+And try no conflict statement.
